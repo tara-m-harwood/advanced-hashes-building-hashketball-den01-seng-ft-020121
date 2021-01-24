@@ -17,6 +17,7 @@ def game_hash
                 ]
              }
   }
+  p game_hash[:home][:players]
 end  
 
 game_hash
