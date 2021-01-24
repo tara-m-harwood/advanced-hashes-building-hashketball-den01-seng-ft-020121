@@ -17,7 +17,7 @@ def game_hash
                 ]
              }
   }
-  p game_hash[:home][:players][:alan_anderson]
+  p game_hash[:home][:players][:alan_anderson][:player_name]
 end  
 
 game_hash
